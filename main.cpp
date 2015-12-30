@@ -4,8 +4,7 @@ using namespace std;
 
 int main(int argc, char* argv[]){
 
-
-	cout << "mana sou" << endl
+	cout<<"project izampo"<<endl;
 
 	return 0;
 }
