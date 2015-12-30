@@ -1,13 +1,14 @@
 #include <iostream>
+#include <stdio.h>  
+#include <stdlib.h> 
+#include "motorway.h"
 
-using namespace std;
+
+//g++ -o yo main.cpp motorway.cpp toll.cpp segment.cpp entrance.cpp car.cpp
 
 int main(int argc, char* argv[]){
 
-	cout<<"project izampo"<<endl;
-
-
-	cout << "mana sou * 4" << endl
+	Motorway motorway();
 
 
 	return 0;
