@@ -7,5 +7,6 @@ int main(int argc, char* argv[]){
 	cout<<"project izampo"<<endl;
 
 
+
 	return 0;
 }
