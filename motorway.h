@@ -6,10 +6,11 @@
 using namespace std;
 
 class Motorway{
-	Segment* segs;
+	//Segment* segs;
+	Segment** segs;
 	int numcars;
 	public:
-		Motorway();
+		Motorway(int s);
 		~Motorway();
 };
 
